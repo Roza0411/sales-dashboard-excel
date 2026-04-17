@@ -38,5 +38,4 @@ Sales increase towards year-end
 
 ### 📷 Dashboard Preview
 
-## 📷 Dashboard Preview
 ![Dashboard](Dashboard.png)
